@@ -1,2 +1,5 @@
-# ms74097452.txt
-This is a DNS Record place. 
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "thwinthithtoo.github.io",
+  "Id": "4f4dcfb8-6427-4ed7-ba82-47fb3218e613"
+}
